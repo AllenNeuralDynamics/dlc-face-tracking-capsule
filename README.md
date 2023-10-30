@@ -3,7 +3,9 @@
 Port of the lim2 face-tracking pipline, using a trained deeplabcut model to ascribe annotated points to each frame in a new video. 
 
 ## model 
-original location: `/allen/aibs/technology/waynew/eye/np3_side_cam-sam_corbett-2020-03-31/dlc-models/iteration-0/np3_side_camMar31-trainset95shuffle1`
+
+original model location: `/allen/aibs/technology/waynew/eye/np3_side_cam-sam_corbett-2020-03-31/dlc-models/iteration-0/np3_side_camMar31-trainset95shuffle1`
+
 ---
 
 Developing a capsule in codoecean is a lot like developing in a local git repository: 
