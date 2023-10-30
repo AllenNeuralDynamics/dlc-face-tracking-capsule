@@ -4,7 +4,7 @@ Port of the lim2 face-tracking pipline, using a trained deeplabcut model to ascr
 
 ## model 
 
-original model location: `/allen/aibs/technology/waynew/eye/np3_side_cam-sam_corbett-2020-03-31/dlc-models/iteration-0/np3_side_camMar31-trainset95shuffle1`
+original model location: `/allen/aibs/technology/waynew/eye/np3_face_cam-sam_corbett-2020-03-30/dlc-models/iteration-0/np3_face_camMar30-trainset95shuffle1`
 
 ---
 
