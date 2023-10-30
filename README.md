@@ -6,6 +6,9 @@ Port of the lim2 face-tracking pipline, using a trained deeplabcut model to ascr
 
 original model location: `/allen/aibs/technology/waynew/eye/np3_face_cam-sam_corbett-2020-03-30/dlc-models/iteration-0/np3_face_camMar30-trainset95shuffle1`
 
+model data asset: [`np3_side_cam-sam_corbett-2020-03-31`](https://codeocean.allenneuraldynamics.org/data-assets/c2624d9c-176e-47dc-83fb-a996976eecef/np3_face_cam-sam_corbett-2020-03-30)
+- ID: `c2624d9c-176e-47dc-83fb-a996976eecef`
+
 ---
 
 Developing a capsule in codoecean is a lot like developing in a local git repository: 
