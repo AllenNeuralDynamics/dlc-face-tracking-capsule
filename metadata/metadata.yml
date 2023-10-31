@@ -3,4 +3,7 @@ name: dlc-face-tracking-capsule
 description: Port of the lims2 face-tracking pipeline - outputs annotated points for
   various face and body parts visible from a frontal view.
 authors:
+- name: Various contributors
+- name: Wayne Wakeman
+- name: Peter Lonnerberg
 - name: Ben Hardcastle
